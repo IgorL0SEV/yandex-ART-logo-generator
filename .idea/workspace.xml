@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f4f48b0-18f3-48e2-bf40-d7629245b95e" name="Changes" comment="" />
+    <list default="true" id="5f4f48b0-18f3-48e2-bf40-d7629245b95e" name="Changes" comment="">
+      <change afterPath="D:/PycharmProjects/yandex ART logo generator/requirements.txt" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/yandex ART logo generator/test_generate_image.py" afterDir="false" />
+      <change beforePath="D:/PycharmProjects/yandex ART logo generator/.gitignore" beforeDir="false" afterPath="D:/PycharmProjects/yandex ART logo generator/.gitignore" afterDir="false" />
+      <change beforePath="D:/PycharmProjects/yandex ART logo generator/.idea/misc.xml" beforeDir="false" afterPath="D:/PycharmProjects/yandex ART logo generator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="D:/PycharmProjects/yandex ART logo generator/.idea/workspace.xml" beforeDir="false" afterPath="D:/PycharmProjects/yandex ART logo generator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/PycharmProjects/yandex ART logo generator/.idea/yandex ART logo generator.iml" beforeDir="false" afterPath="D:/PycharmProjects/yandex ART logo generator/.idea/yandex ART logo generator.iml" afterDir="false" />
+      <change beforePath="D:/PycharmProjects/yandex ART logo generator/main.py" beforeDir="false" afterPath="D:/PycharmProjects/yandex ART logo generator/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="D:/PycharmProjects/yandex ART logo generator" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IgorL0SEV&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IgorL0SEV/yandex-ART-logo-generator&quot;,
+    &quot;accountId&quot;: &quot;72cd6f35-50ce-4a52-a63b-ba687d8a2f3e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ybA10Q0fygdtHk38u8GhPsy2o8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,9 +51,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_generate_image.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
